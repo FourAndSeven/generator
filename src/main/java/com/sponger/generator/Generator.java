@@ -41,9 +41,9 @@ public class Generator {
      * JDBC相关配置
      */
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
-    private static final String URL = "jdbc:mysql://39.108.138.43:3306/user_db?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
+    private static final String URL = "jdbc:mysql://ip:3306/user_db?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String USER_NAME = "root";
-    private static final String PASSWORD = "Qas919293";
+    private static final String PASSWORD = "root";
 
     /**
      * <p>
